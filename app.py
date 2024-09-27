@@ -99,7 +99,7 @@ def predicts():
     end_date= d1
     d2=date.today()-timedelta(days=500)
     start_date = d2.strftime("%Y-%m-%d")
-    print("asdsadasdsas")
+    
     end_date = end_date
 
     # Download the data
